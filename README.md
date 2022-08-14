@@ -12,5 +12,7 @@ In a few words: I will learn, adapt myself, and get the job done.
 
 Outside the world of tech, I also have a huge range of center of interest, from woodworking to astrophysics. 
 
-![linkedin](https://user-images.githubusercontent.com/56110721/184544872-09db16fc-34ff-4ff6-870f-40eb35720ab7.svg)
+
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+
 

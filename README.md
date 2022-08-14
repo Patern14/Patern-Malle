@@ -11,3 +11,6 @@ Before this move I had several various life experiences, I love to learn new thi
 In a few words: I will learn, adapt myself, and get the job done.
 
 Outside the world of tech, I also have a huge range of center of interest, from woodworking to astrophysics. 
+
+
+![linkedin](https://img.shields.io/badge/linkedin-#0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
